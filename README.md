@@ -1,3 +1,5 @@
 # CaosNetwork|TheGalaxy
 
-Click [Here](home.md) to get to the Main Page
+Click [Here](doc/home.md) to get to the Main Page
+
+Or if you are at the Repository click [Here](https://caosnetwork.github.io)
