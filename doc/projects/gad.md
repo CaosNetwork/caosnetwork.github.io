@@ -1,7 +1,6 @@
 # German Anomaly Department
 
-- [Home](../../home.md)
-- [Back](../gad.md)
+- [Back](../home.md)
 
 ## Index
 
