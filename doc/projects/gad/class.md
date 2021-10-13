@@ -5,30 +5,30 @@
 
 ## Index
 
-- [Safe]
-- [Anomalistic]
-- [Harmless]
-- [Neutral]
-- [Harmfull]
-- [Dangerous]
-- [EotW]
+- [Safe](class.md#safe)
+- [Anomalistic](class.md#anomalistic)
+- [Harmless](class.md#harmless)
+- [Neutral](class.md#neutral)
+- [Harmfull](class.md#harmfull)
+- [Dangerous](class.md#dangerous)
+- [EotW](class.md#eotw)
   - XW
   - XXW
   - UW
-- [EotU]
+- [EotU](class.md#eotu)
   - XU
   - XXU
   - UU
-- [EOR]
+- [EOR](class.md#eor)
   - XR
   - XXR
   - UR
 
-- [Reality Changing]
+- [Reality Changing](class.md#reality-changing)
 
-- [Neutralized]
-- [Presumed Neutralized]
-- [Contained]
+- [Neutralized](class.md#neutralized)
+- [Presumed Neutralized](class.md#presumed-neutralized)
+- [Contained](class.md#contained)
 
 ## Safe
 
