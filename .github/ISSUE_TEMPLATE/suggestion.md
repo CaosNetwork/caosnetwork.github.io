@@ -1,19 +1,13 @@
 ---
 name: Suggestion
-about: Do you have an Idea? Tell us here.
-title: "[Suggestion] TITLE"
-labels: ''
+about: You have an Idea or want something for the Documentation? Tell us.
+title: "[Suggestion]"
+labels: Suggestion
 assignees: ''
 
 ---
 
-**Explain your Idea below.**
-
+**Explain what you want to Suggest below. Try to explain it in Detail so we can try adding it like that**
 -----
-**Do you have a Specific Idea how? Explain below.**
-
------
-**Do you fond this Ideo somewhere? Show Screenshots or Sources below.**
-
------
-**Anything else? Tell us Below**
+Example:
+You should add your game to the Documentation since its missing there.
