@@ -1,5 +1,8 @@
 # GAD | Security Level
 
+- [Home](../../home.md)
+- [Back](../gad.md)
+
 ## Index
 
 - Level 1
