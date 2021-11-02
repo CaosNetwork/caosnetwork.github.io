@@ -1,0 +1,6 @@
+{
+	"files.exclude": {
+		// Krita Projects
+		"*.kra":true,
+	}
+}

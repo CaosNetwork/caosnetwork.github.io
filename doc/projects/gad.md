@@ -9,3 +9,8 @@
 - [Locations](gad/location.md)
 - [Classification](gad/class.md)
 - [Security Level](gad/sec.md)
+
+### Dev-Links
+
+- [Example GAD Sheet - (File)](https://github.com/CaosNetwork/caosnetwork.github.io/doc/projects/gad/s1/example.md)
+- [Example GAD Sheet - (View)](https://caosnetwork.github.io/doc/projects/gad/s1/example.html)
