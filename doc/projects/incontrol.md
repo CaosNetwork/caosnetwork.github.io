@@ -2,4 +2,8 @@
 
 - [Back](../home.md)
 
-## Soon™
+## Index
+
+- Home
+- IDK
+

@@ -12,5 +12,5 @@
 
 ### Dev-Links
 
-- [Example GAD Sheet - (File)](https://github.com/CaosNetwork/caosnetwork.github.io/doc/projects/gad/s1/example.md)
+- [Example GAD Sheet - (File)](https://github.com/CaosNetwork/caosnetwork.github.io/blob/main/doc/projects/gad/s1/example.md)
 - [Example GAD Sheet - (View)](https://caosnetwork.github.io/doc/projects/gad/s1/example.html)
