@@ -1,3 +1,6 @@
 # CaosNetwork|TheGalaxy
 
-**Click [Here](https://caosnetwork.github.io/doc/home.html) to get to the Main Page.**
+**Click [Here](http://www.caosnetwork.ga) to get to the Main Page.**
+*http://www.caosnetwork.ga*
+
+* Sorry for the missing Security im to dumb to konfigurate it.
