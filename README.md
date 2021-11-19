@@ -1,7 +1,7 @@
 # CaosNetwork|TheGalaxy
 
 ## English (EN)
-[Link](./en)
+[Link](caosnetwork.ga/en/home.html)
 
 ## Deutsch (DE)
 
