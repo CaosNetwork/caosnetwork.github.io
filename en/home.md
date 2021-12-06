@@ -11,5 +11,7 @@
   - [VN01](projects/vn01.md)
   - [TopDown](projects/topdown.md)
   - [InControl](projects/incontrol.md)
+  - [StillOpen](projects/stillopen/index.html)
+
   - [The Universe](projects/theuniverse.md)
   - [GAD](projects/gad.md)
