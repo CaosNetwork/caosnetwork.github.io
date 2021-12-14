@@ -2,7 +2,7 @@
 
 ## English (EN)
 
-[Link](https://caosnetwork.ga/en/home.html)
+[Link](https://doc.caosnetwork.ga/en/home.html)
 
 ## Deutsch (DE)
 
